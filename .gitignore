@@ -1,0 +1,4 @@
+.azure
+.bin
+/batch/bin/Debug/net6.0
+/batch/obj
