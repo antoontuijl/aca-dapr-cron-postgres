@@ -3,17 +3,17 @@
         {
             "orderid": 1,
             "customer": "John Smith",
-            "price": 100.32
+            "price": 100
         },
         {
             "orderid": 2,
             "customer": "Jane Bond",
-            "price": 15.4
+            "price": 15
         },
         {
             "orderid": 3,
             "customer": "Tony James",
-            "price": 35.56
+            "price": 35
         }
     ]
  }
